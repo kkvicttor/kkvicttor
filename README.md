@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaik Victtor, é um prazer ter sua presença aqui👋
 
-- 🔭 Trabalho atualmente com HTML
+- 🔭 Trabalho atualmente com Python
 - Estudo Cybersegurança e desejo me tornar um DEV Back-end ou Full Stack
 - 🤔 Estou precisando de ajuda para aprender mais sobre Python e JS
 - 📫 Pode me contatar via e-mail: kaikvicttornascimento@gmail.com
