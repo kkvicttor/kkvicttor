@@ -1,7 +1,7 @@
 ## Olá, eu sou Kaik Victtor, é um prazer ter sua presença aqui👋
 
 - 🔭 Trabalho atualmente com Python
-- Estudo Cybersegurança e desejo me tornar um DEV Back-end ou Full Stack
+- Estudo Cybersegurança e Banco de Dados e desejo me tornar um Desenvolvedor Back-end
 - 🤔 Estou precisando de ajuda para aprender mais sobre Python e JS
 - 📫 Pode me contatar via e-mail: kaikvicttornascimento@gmail.com
 - 😄 Pronouns: Ele/Dele
