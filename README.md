@@ -1,12 +1,9 @@
-## Olá, eu sou Kaik Victtor, é um prazer ter sua presença aqui👋
-
+## Prazer me chamo Kaik Victtor e aqui explico algumas coisas sobre mim:
 - 🔭 Trabalho atualmente com Python
-- Estudo Cybersegurança e Banco de Dados e desejo me tornar um Desenvolvedor Back-end
+- Estudo Cybersegurança, Banco de Dados e Python por gostar bastante
 - 🤔 Estou precisando de ajuda para aprender mais sobre Python e JS
 - 📫 Pode me contatar via e-mail: kaikvicttornascimento@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Gosto de jogos competitivos e estudar bastante.
--  Aqui estão algumas linguagens que busco aperfeiçoamento e dominar futuramente para me tornar um desenvolvedor back-end completo.
+-  Aqui estão algumas linguagens que busco aperfeiçoamento e dominar futuramente para me tornar um dev completo.
 - <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
