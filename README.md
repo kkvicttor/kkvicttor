@@ -1,7 +1,7 @@
 ## Prazer me chamo Kaik Victtor e aqui explico algumas coisas sobre mim:
 - 🔭 Trabalho atualmente com Python
 - Estudo Cybersegurança, Banco de Dados e Python por gostar bastante
-- 🤔 Estou precisando de ajuda para aprender mais sobre Python e JS
+- Ultimamente estou focado em Python e Banco de Dados (SQL e PostGree SQL)
 - 📫 Pode me contatar via e-mail: kaikvicttornascimento@gmail.com
 -  Aqui estão algumas linguagens que busco aperfeiçoamento e dominar futuramente para me tornar um dev completo.
 - <div style="display: inline_block"><br>
