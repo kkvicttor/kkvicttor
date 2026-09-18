@@ -21,8 +21,6 @@
 </p>
  
 <div> 
-  [![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkvicttor&show_icons=true)](https://github.com/kkvicttor/github-readme-stats)
-
   <a href="https://www.instagram.com/victto.rrx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/sabbotinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/mHZhdQqdy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
