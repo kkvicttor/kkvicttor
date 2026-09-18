@@ -29,8 +29,6 @@
   
 </div>
 
-![Projeto C](https://img.shields.io/badge/Projeto-Gerador%20de%20Senhas-brightgreen?style=for-the-badge&logo=github)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkvicttor/kkvicttor/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkvicttor/kkvicttor/output/snake.svg">
