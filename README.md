@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&reversal=true">
+
 ## Prazer me chamo Kaik Victtor e aqui explico algumas coisas sobre mim:
 - 🔭 Trabalho atualmente com Python
 - Estudo Cybersegurança, Banco de Dados e Python por gostar bastante
